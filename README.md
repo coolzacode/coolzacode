@@ -1,4 +1,8 @@
-## Hi there 👋
+## Hi 😎
+
+💻 Software Engineer Major<br/>
+📚 University of Illinois Chicago<br/>
+
 
 <!--
 **coolzacode/coolzacode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
